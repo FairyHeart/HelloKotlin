@@ -1,0 +1,11 @@
+序列化的使用：
+1、build.gradle添加对安卓插件对编译支持
+
+    androidExtensions {
+        experimental = true
+    }
+
+2、添加@Parcelize表示自动实现Parcelable接口对方法
+
+    @Parcelize
+    class Bean : Parcelable
