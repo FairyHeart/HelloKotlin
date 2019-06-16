@@ -1,11 +1,10 @@
-package com.test.testandroidkotlin
+package com.test
 
 import android.app.AlertDialog
 import android.content.DialogInterface
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.widget.Button
-import com.test.R
 import kotlinx.android.synthetic.main.activity_dialog.*
 import org.jetbrains.anko.*
 

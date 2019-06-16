@@ -1,4 +1,4 @@
-package com.test.testandroidkotlin
+package com.test
 
 import android.support.v7.app.AppCompatActivity
 

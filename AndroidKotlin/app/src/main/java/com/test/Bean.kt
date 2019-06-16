@@ -1,4 +1,4 @@
-package com.test.testandroidkotlin
+package com.test
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize

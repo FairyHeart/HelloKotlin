@@ -1,4 +1,4 @@
-package com.test.testandroidkotlin
+package com.test
 
 import android.Manifest
 import android.content.Intent
