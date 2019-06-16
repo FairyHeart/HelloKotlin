@@ -1,7 +1,260 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="076c6b75-4d62-4484-b5cb-1a096f8ef8ee" name="Default Changelist" comment="" />
+    <list default="true" id="076c6b75-4d62-4484-b5cb-1a096f8ef8ee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__2_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaKotlin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib.test/lib.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib.test/src/LibTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/META-INF/KotlinTest.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/HelloWorldKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/java/SimpleDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/java/字符串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/java/异常.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/java/默认函数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/A$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/FruitBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/Mother.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/MyFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/MyKotlin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/OutClass$InnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/OutClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/Pather.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/SimpleDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/Sister.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/Son.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/Thing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/WashPower.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/_11匿名函数Kt$main$m$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/_11匿名函数Kt$main$m2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/_11匿名函数Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/_14递归Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/_22嵌套类Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/_24泛型Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/_26类委托Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/_36类的修饰符Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/_37类型别名Kt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/_37类型别名Kt$main$f$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/_37类型别名Kt$main$maxval$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/_37类型别名Kt$main$p$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/_37类型别名Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/_44异常Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/bb/_33闭包Kt$test$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/bb/_33闭包Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/com/internal/InternalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/cxl/Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/cxl/Son.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/cxl/_19抽象类Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/dlms/Single.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/dlms/Single2$Companion$instance$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/dlms/Single2$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/dlms/Single2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/dlms/Test$A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/dlms/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/dlms/_29单例Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/f/_08循环_forKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/fs/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/fs/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/fs/Outer$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/fs/Outer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/fs/_46反射Kt$compose$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/fs/_46反射Kt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/fs/_46反射Kt$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/fs/_46反射Kt$main$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/fs/_46反射Kt$main$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/fs/_46反射Kt$main$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/fs/_46反射Kt$main$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/fs/_46反射Kt$main$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/fs/_46反射Kt$main$boundInnerCtor$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/fs/_46反射Kt$main$f$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/fs/_46反射Kt$main$g$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/fs/_46反射Kt$main$matches$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/fs/_46反射Kt$main$oddLength$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/fs/_46反射Kt$main$oddLength$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/fs/_46反射Kt$main$prop$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/fs/_46反射Kt$main$str$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/fs/_46反射Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/gjhs/_34高阶函数Kt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/gjhs/_34高阶函数Kt$main$d$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/gjhs/_34高阶函数Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/gs/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/gs/_16get和setKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/hs/_13函数Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/itf/IOrderServcie$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/itf/IOrderServcie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/itf/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/itf/_20接口Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/jc/Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/jc/Son.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/jc/_18继承Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/jcsjlx/_02基础数据类型Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/jg/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/jg/_43解构Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/jhtz/FullName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/jhtz/_41集合拓展Kt$qita$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/jhtz/_41集合拓展Kt$qita$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/jhtz/_41集合拓展Kt$qita$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/jhtz/_41集合拓展Kt$shunxuTest$$inlined$sortedBy$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/jhtz/_41集合拓展Kt$shunxuTest$$inlined$sortedByDescending$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/jhtz/_41集合拓展Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/kotlin与java互调.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/kzcl/_05空值处理Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/kztsr/_06控制台输入Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/lbd/_35lambda表达式Kt$d$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/lbd/_35lambda表达式Kt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/lbd/_35lambda表达式Kt$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/lbd/_35lambda表达式Kt$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/lbd/_35lambda表达式Kt$main$ad$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/lbd/_35lambda表达式Kt$main2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/lbd/_35lambda表达式Kt$main3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/lbd/_35lambda表达式Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/ljz/_27懒加载Kt$test2$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/ljz/_27懒加载Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/mfl/Instance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/mfl/OtherInst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/mfl/SealedInst$ChildInst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/mfl/SealedInst$NomalInst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/mfl/SealedInst$SuitInst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/mfl/SealedInst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/mfl/_32密封类Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/mj/COLOR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/mj/WHEEK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/mj/_30枚举Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/nbn/OutClass$InnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/nbn/OutClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/nbn/_23内部类Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/nlhs/_39内联函数Kt$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/nlhs/_39内联函数Kt$main$action$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/nlhs/_39内联函数Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/nll/Foo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/nll/I.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/nll/Name.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/nll/PassWord2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/nll/UInt2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/nll/UserName2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/nll/_38内联类Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/nmnbl/ITestInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/nmnbl/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/nmnbl/_23匿名内部类Kt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/nmnbl/_23匿名内部类Kt$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/nmnbl/_23匿名内部类Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/ptsm/_42平台声明Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/qj/_09区间_rangeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/returns/_40returnKt$funCrossInline$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/returns/_40returnKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/sjjl/Instance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/sjjl/_31数据类Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/sz/_10数组Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/sz/_12容器Kt$testList$$inlined$sortByDescending$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/sz/_12容器Kt$testMap$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/sz/_12容器Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/tjyj/_07条件语句_ifKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/tzhss/FatherTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/tzhss/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/tzhss/_28扩展函数Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/wh/_12表达式_whenKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/ysfcz/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/ysfcz/_15运算符重载Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/yzsj/_04元组数据Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/zfc/_03字符串Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/zj/Ann.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/zj/AnnWithArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/zj/Deprecated.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/zj/Example.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/zj/Fancy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/zj/Foo$f$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/zj/Foo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/zj/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/zj/OrderService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/zj/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/zj/Person2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/zj/ReplaceWith.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/zj/Suspendable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/zj/TestAnnWithArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/zj/Woman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/znlxzh/BaseInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/znlxzh/Instance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/znlxzh/_21智能类型转换Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/zyyhs/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/zyyhs/_47作用域函数Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/zzbds/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/zzbds/_25中缀表达式Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/zzhs/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/zzhs/_17构造函数Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lib.test/META-INF/lib.test.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lib.test/com/lib/kotlin/LibTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lib.test/com/lib/kotlin/LibTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/HelloWorld.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/SimpleDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/字符串.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/异常.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/默认函数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/02基础数据类型.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/03字符串.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/04元组数据.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/05空值处理.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/06控制台输入.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/07条件语句_if.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/08循环_for.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/09区间_range.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/10数组.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/11匿名函数.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/12容器.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/12表达式_when.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/13函数.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/14递归.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/15运算符重载.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/16get和set.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/17构造函数.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/18继承.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/19抽象类.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/20接口.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/21智能类型转换.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/22嵌套类.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/23内部类.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/23匿名内部类.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/24泛型.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/25中缀表达式.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/26类委托.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/27懒加载.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/28扩展函数.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/29单例.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/30枚举.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/31数据类.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/32密封类.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/33闭包.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/34高阶函数.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/35lambda表达式.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/36类的修饰符.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/37类型别名.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/38内联类.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/39内联函数.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/40return.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/41集合拓展.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/42平台声明.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/43解构.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/44异常.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/45注解.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/46反射.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/47作用域函数.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/SimpleDemo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/com/internal/InternalTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/kotlin与java互调.kt" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,61 +263,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/java/异常.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kotlin/SimpleDemo.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kotlin/47作用域函数.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kotlin/36类的修饰符.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="25" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="25" />
-              <folding>
-                <element signature="e#20#94#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib.test/src/LibTest.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kotlin/com/internal/InternalTest.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -75,60 +274,15 @@
     <option name="width" value="1920" />
     <option name="height" value="1057" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="KotlinTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KotlinTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KotlinTest" type="462c0819:PsiDirectoryNode" />
-              <item name="lib.test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KotlinTest" type="462c0819:PsiDirectoryNode" />
-              <item name="lib.test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KotlinTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KotlinTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KotlinTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KotlinTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="internal" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -137,7 +291,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../../../../sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560664053931" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560666261483" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -157,14 +311,61 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="JavaKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.kotlin.zyyhs._47作用域函数Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinTest" />
+      <module name="JavaKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.kotlin.zyyhs._47作用域函数Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="JavaKotlin" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -191,24 +392,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="951000" />
+    <option name="totallyTimeSpent" value="1205000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-189" width="1920" height="1057" extended-state="0" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32953367" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32953367" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -216,15 +411,21 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32953367" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.32953367" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +470,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="35" column="16" lean-forward="true" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/com/coroutines/协程.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/KotlinTest/com/kotlin/com/coroutines/协程Kt.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaKotlin.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
