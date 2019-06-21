@@ -2,35 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="076c6b75-4d62-4484-b5cb-1a096f8ef8ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/androidTest/java/com/test/coroutines/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/main/java/com/test/coroutines/CoroutineTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/main/java/com/test/coroutines/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/test/java/com/test/coroutines/ExampleUnitTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidKotlin/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AndroidKotlin/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidKotlin/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../AndroidKotlin/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidKotlin/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../AndroidKotlin/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/main/java/com/test/coroutines/01协程_基础.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/main/java/com/test/coroutines/02协程_通道.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidKotlin/module_coroutines/src/main/java/com/test/coroutines/CoroutineTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,11 +16,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/kotlin/47作用域函数.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+            <state relative-caret-position="437">
+              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kotlin/44异常.kt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kotlin/43解构.kt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kotlin/42平台声明.kt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/kotlin/41集合拓展.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="339" column="29" selection-start-line="339" selection-start-column="29" selection-end-line="339" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -55,11 +54,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1280" />
-    <option name="y" value="-189" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2118" />
+    <option name="width" value="1644" />
+    <option name="height" value="1182" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -79,11 +77,6 @@
             <path>
               <item name="JavaKotlin" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaKotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="lib.test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaKotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaKotlin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -92,20 +85,31 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../../sdk" />
+    <property name="android.sdk.path" value="D:/../../sdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560676302532" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -157,17 +161,19 @@
       <workItem from="1560662487843" duration="951000" />
       <workItem from="1560675411240" duration="197000" />
       <workItem from="1560676266126" duration="362000" />
+      <workItem from="1560850369241" duration="79000" />
+      <workItem from="1560850464734" duration="36000" />
+      <workItem from="1561083787489" duration="699000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1738000" />
+    <option name="totallyTimeSpent" value="2552000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="-189" width="1920" height="1057" extended-state="0" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1216" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2028754" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20788912" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -185,7 +191,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="11" visible="true" weight="0.32953367" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="11" visible="true" weight="0.16989844" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32953367" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -262,8 +268,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/kotlin/47作用域函数.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        <state relative-caret-position="437">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kotlin/44异常.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kotlin/43解构.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kotlin/42平台声明.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kotlin/41集合拓展.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="339" column="29" selection-start-line="339" selection-start-column="29" selection-end-line="339" selection-end-column="29" />
         </state>
       </provider>
     </entry>
